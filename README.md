@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**melihavci/melihavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on several sports related videography projects 
 - 🌱 I’m currently learning some new Calisthenics Skills
 - 💬 Ask me about technical stuff regarding to Cameras 
