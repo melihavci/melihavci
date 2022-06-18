@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on several sports related videography projects 
 - 🌱 I’m currently learning some new Calisthenics Skills
 - 💬 Ask me about technical stuff regarding to Cameras 
-- 📫 How to reach me Instgram, Youtube, Teams 
+- 📫 How to reach me: Instgram, Youtube, Teams 
 - ⚡ Fun fact i grew up like a monkey (always loved climbing on buildings)
 
 - Why am i studying IT related ? 
